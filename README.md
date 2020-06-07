@@ -1,6 +1,6 @@
 # BootstrapIntegration
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7 for part 4 of angular video series on out of office. video link https://youtu.be/sZ7JoVqUyNw
 
 ## Development server
 
